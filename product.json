@@ -1,6 +1,6 @@
 
 {
-  "Recipes":[
+ 
     {
       "id":1, 
       "name":"Garlic Bread", 
@@ -23,4 +23,4 @@
       "category":"Bread"
   }
 
-]}
+}
