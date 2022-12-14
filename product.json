@@ -1,6 +1,6 @@
 
 {
-  "Recipes": [
+  "Products": [
     {
       "id":1, 
       "name":"Garlic Bread", 
@@ -21,6 +21,93 @@
       "image":"https://images.unsplash.com/photo-1554475659-9fd915c8f156?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80", 
       "price":100.00, 
       "category":"Bread"
-  }
+  },
+  {
+      "id":4, 
+      "name":"Baguette", 
+      "image":"https://images.unsplash.com/photo-1602557618699-b5a418628614?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80", 
+      "price":80.00, 
+      "category":"Bread"
+  
+  },
+   {
+      "id":5, 
+      "name":"Walnut Cake"
+      "image":"https://images.unsplash.com/photo-1461009312844-e80697a81cc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1988&q=80"
+      "price":120.00, 
+      "category":"Cake"
+    },
+     {
+      "id":6, 
+      "name":"Vanilla Cake"
+      "image":"https://images.unsplash.com/photo-1602630236440-a829a1d70114?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80"
+      "price":75.00, 
+      "category":"Cake"
+    },
+     {
+      "id":7, 
+      "name":"Chocolate Cake"
+      "image":"https://images.unsplash.com/photo-1535911765168-1fafc87dcfa3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2934&q=80"
+      "price":85.00, 
+      "category":"Cake"
+    },
+     {
+      "id":8, 
+      "name":"Black Forest"
+      "image":"https://images.unsplash.com/photo-1620492129802-2955e00f161e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+      "price":85.00, 
+      "category":"Cake"
+    },
+  {
+      "id":9, 
+      "name":"Chicken Pizza"
+      "image":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1081&q=80"
+      "price":450.00, 
+      "category":"Pizza"
+    },
+    
+    {
+      "id":10, 
+      "name":"Peperoni Pizza"
+      "image":"https://images.unsplash.com/photo-1458642849426-cfb724f15ef7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80"
+      "price":500.00, 
+      "category":"Pizza"
+    },
+     {
+      "id":11, 
+      "name":"Cheese Pizza"
+      "image":"https://images.unsplash.com/photo-1617343251257-b5d709934ddd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      "price":350.00, 
+      "category":"Pizza"
+    },
+ {
+      "id":12, 
+      "name":"Vegetarian Pizza"
+      "image":"https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+      "price":350.00, 
+      "category":"Pizza"
+    },
+     {
+      "id":13, 
+      "name":"Chocochip Cookies"
+      "image":"https://images.unsplash.com/photo-1583743089695-4b816a340f82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      "price":120.00, 
+      "category":"Cookies"
+    },
+     {
+      "id":14, 
+      "name":"Pistachio Cookies"
+      "image":"https://images.unsplash.com/photo-1603889386532-0b8ebbe217c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      "price":120.00, 
+      "category":"Cookies"
+    },
+     {
+      "id":15, 
+      "name":"Oatmeal Cookies"
+      "image":"https://images.unsplash.com/photo-1582385760710-4300982782c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+      "price":120.00, 
+      "category":"Cookies"
+    }
+    
 
 ]}
