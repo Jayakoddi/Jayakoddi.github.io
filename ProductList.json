@@ -56,6 +56,35 @@
       "image":"https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
       "price":350.00, 
       "category":"Pizza"
+    },
+    {
+      "id":5, 
+      "name":"Walnut Cake",
+      "image":"https://images.unsplash.com/photo-1461009312844-e80697a81cc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1988&q=80",
+      "price":120.00, 
+      "category":"Cake"
+    },
+     {
+      "id":6, 
+      "name":"Vanilla Cake",
+      "image":"https://images.unsplash.com/photo-1602630236440-a829a1d70114?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
+      "price":75.00, 
+      "category":"Cake"
+    },
+     {
+      "id":7, 
+      "name":"Chocolate Cake",
+      "image":"https://images.unsplash.com/photo-1535911765168-1fafc87dcfa3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2934&q=80",
+      "price":85.00, 
+      "category":"Cake"
+    },
+     {
+      "id":8, 
+      "name":"Black Forest",
+      "image":"https://images.unsplash.com/photo-1620492129802-2955e00f161e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "price":85.00, 
+      "category":"Cake"
     }
+  
   ]
 }
