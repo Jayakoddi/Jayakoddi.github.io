@@ -7,7 +7,6 @@
       "price":450.00, 
       "category":"Pizza"
     },
-    
     {
       "id":10, 
       "name":"Peperoni Pizza",
@@ -22,7 +21,7 @@
       "price":350.00, 
       "category":"Pizza"
     },
-  {
+    {
       "id":12, 
       "name":"Vegetarian Pizza",
       "image":"https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
@@ -49,7 +48,7 @@
       "image":"https://images.unsplash.com/photo-1554475659-9fd915c8f156?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80", 
       "price":100.00, 
       "category":"Bread"
-  },
+    },
      {
       "id":4, 
       "name":"Baguette", 
@@ -86,8 +85,7 @@
       "price":85.00, 
       "category":"Cake"
     },
-  
-     {
+    {
       "id":13, 
       "name":"Chocochip Cookies",
       "image":"https://images.unsplash.com/photo-1583743089695-4b816a340f82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
