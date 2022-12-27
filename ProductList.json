@@ -3,14 +3,14 @@
     {
       "id":1, 
       "name":"Garlic Bread", 
-      "image":"https://images.unsplash.com/photo-1593629718888-9009c55e6cad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80", 
+      "image":"https://images.unsplash.com/photo-1608100742901-fd3edfd7a5a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2164&q=80", 
       "price":130.00, 
       "category":"Bread"
    },
    {
       "id":2, 
      "name":"Focaccia Bread", 
-     "image":"https://images.unsplash.com/photo-1636367989590-2c24b21b765b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80", 
+     "image":"https://images.unsplash.com/photo-1593629718888-9009c55e6cad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80", 
      "price":180.00, 
      "category": "Bread"
     },
