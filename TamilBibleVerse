@@ -1,2 +1,41 @@
 {
+  "BibleVerse": [
+    {
+      "id":1, 
+      "verse":“Therefore, since we are surrounded by such a great cloud of witnesses, 
+      let us throw off everything that hinders and the sin that so easily entangles. 
+      And let us run with perseverance the race marked out for us …” Hebrews 12:1 (NIV)", 
+      "image":"https://images.unsplash.com/photo-1608100742901-fd3edfd7a5a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2164&q=80", 
+      "prayer":"Dear God, thank You for giving me models for how to run my race with perseverance. 
+      When life gets hard, help me to keep going. Show me what it looks like to adjust my pace while continuing to persevere. In Jesus’ Name, Amen.", 
+      "category":[
+      "Endurance",
+      "Perseverance"
+      ]
+   },
+   
+   {
+      "id":2, 
+      "verse":"“Now grace was given to each one of us according to the measure of Christ’s gift.” Ephesians 4:7 (CSB)",
+      "image":""
+      "prayer":"God, You understand so very personally and deeply the heartache of watching someone You love walk away. 
+      As I look back at what was and look ahead at what will be, I know You are a refuge and safe place to process my feelings. 
+      Thank You for being so close to me during this time. I am looking to You and believing that today I can take some steps forward and whisper “God be with you” to those who have left wounds in my heart. This isn’t me saying I’m OK with what they did — I know You will eventually hold them accountable for their sin. But it is me saying I want to fully live again. 
+      You can bring eventual good in all things, and today I trust that You absolutely will. In Jesus’ Name, Amen." ,
+      "category":[
+      "Healing",
+      "Refuge"
+      ]
+   },
+   
+   {
+      "id":3, 
+      "verse":"",
+      "image":"",
+      "prayer": "",
+      "category":[
+      "Endurance",
+      "Perseverance"
+      ]
+   }
 }
