@@ -6,6 +6,8 @@
       "name":"Avocado Toast",
       "category":"Breakfast",
       "author":"Kathryne Taylor",
+      "cookTime": "15 mins"
+      "serving": 1
       "copyright":"© Cookie and Kate 2010 - 2023. All rights reserved",
       "image":"https://cookieandkate.com/images/2012/04/avocado-toast-with-tomatoes-balsamic-vinegar-basil.jpg",
       "Ingredients": [
