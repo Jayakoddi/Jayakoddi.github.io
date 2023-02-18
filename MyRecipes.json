@@ -163,50 +163,7 @@
          " Next, add some chopped nuts on top."
         ],
     "videolink":"https://www.youtube.com/watch?v=jO4-fh2XBBk"
-   },
-    
-    {
-        "id":
-        "name":
-        "category":
-        "author":
-        "cooktime":
-        "serving":
-        "copyright":
-        "image":
-        "ingredients";[],
-        "directions": [],
-        "videolink":
-     },
-    
-    {
-        "id":
-        "name":
-        "category":
-        "author":
-        "cooktime":
-        "serving":
-        "copyright":
-        "image":
-        "ingredients";[],
-        "directions": [],
-        "videolink":
-     },
-
-{
-        "id":
-        "name":
-        "category":
-        "author":
-        "cooktime":
-        "serving":
-        "copyright":
-        "image":
-        "ingredients";[],
-        "directions": [],
-        "videolink":
-     }
-    
+   }    
     ]//End of array
     
 }//End of class
