@@ -9,18 +9,10 @@
       "serving": 1,
       "copyright":"© Cookie and Kate 2010 - 2023. All rights reserved",
       "image":"https://cookieandkate.com/images/2012/04/avocado-toast-with-tomatoes-balsamic-vinegar-basil.jpg",
-      "ingredients": [
-        "2 slices of bread",
-        "1 Avocado",
-        "Salt",
-        "Pepper"
-      ],
-    "directions": [
-      " Toast your slice of bread until golden and firm.",
-      " Remove the pit from your avocado. Use a big spoon to scoop out the flesh. Put it in a bowl and mash it up with a fork until it’s as smooth as you like it.",
-      " Mix in a pinch of salt (about ⅛ teaspoon) and add more to taste, if desired.",
-      " Spread avocado on top of your toast. Enjoy as-is or top with any extras offered in this post "
-      ],
+      "ingredients": 
+        "2 slices of bread \n 1 Avocado \n Salt \n Pepper",
+       "directions": 
+      " Toast your slice of bread until golden and firm. \n Remove the pit from your avocado. Use a big spoon to scoop out the flesh. \n Put it in a bowl and mash it up with a fork until it’s as smooth as you like it.\n Mix in a pinch of salt (about ⅛ teaspoon) and add more to taste, if desired. \n Spread avocado on top of your toast. Enjoy as-is or top with any extras offered in this post \n ",
       "videolink": "https://www.youtube.com/watch?v=Rh4EI4luKAQ"
    },
    
@@ -32,7 +24,7 @@
       "serving": 1,
        "copyright":"©2023 Eat This Much Inc. All rights reserved",
       "image":"https://images.eatthismuch.com/img/39533_erin_m_5ba9f81a-bd3e-47fc-872b-b553372bcf12.png",
-      "ingredients": [
+      "ingredients": 
         "2 slices of whole wheat bread",
         "1 large ripe banana",
         "2 tablespoons honey(optional)",
