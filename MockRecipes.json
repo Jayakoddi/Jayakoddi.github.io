@@ -1,56 +1,90 @@
+
 {
 
 	"Recipes": [{
-			"category": "Dinner",
-			"directions": "Step 1 \n Step 2, \n Step 3",
 			"id": 1,
-			"ingredients": "Ingredient 1 \n Ingredient 2 \n Ingredient 3",
-			"name": "Chicken Alfredo",
-			"serving": 4,
-			"cookTime": "30 minutes",
-			"copyright": "©2023 John Doe",
+			"name": "Avocado Toast",
+			"category": "Breakfast",
+			"cookTime": "15 mins",
+			"serving": 1,
+			"copyright": "© Cookie and Kate 2010 - 2023. All rights reserved",
 			"image": "https://cookieandkate.com/images/2012/04/avocado-toast-with-tomatoes-balsamic-vinegar-basil.jpg",
+			"ingredients": " 2 slices of bread.\n1 Avocado.\n Salt.\n Pepper.\n",
+			"directions": " Toast your slice of bread until golden and firm.\n Remove the pit from your avocado.\n Use a big spoon to scoop out the flesh.\n Put it in a bowl and mash it up with a fork until it’s as smooth as you like it.\n Mix in a pinch of salt (about ⅛ teaspoon) and add more to taste, if desired.\n Spread avocado on top of your toast./n Enjoy as-is or top it with any extras.\n ",
 			"videolink": "https://www.youtube.com/watch?v=Rh4EI4luKAQ"
 		},
 
 		{
-			"category": "Dessert",
-			"directions": "Step 1 \n Step 2, \n Step 3",
 			"id": 2,
-			"ingredients": "Ingredient 1 \n Ingredient 2 \n Ingredient 3",
-			"name": "Chocolate Cake",
-			"serving": 6,
-			"cookTime": "1 hour",
-			"copyright": "©2023 Jane Doe",
-			"image": "https://cookieandkate.com/images/2012/04/avocado-toast-with-tomatoes-balsamic-vinegar-basil.jpg",
+			"name": "Peanut Butter Banana Toast",
+			"category": "Breakfast",
+			"cookTime": "15 mins",
+			"serving": 1,
+			"copyright": "©2023 Eat This Much Inc. All rights reserved",
+			"image": "https://images.eatthismuch.com/img/39533_erin_m_5ba9f81a-bd3e-47fc-872b-b553372bcf12.png",
+			"ingredients": " 2 slices of whole wheat bread.\n 1 large ripe banana.\n 2 tablespoons honey(optional).\n 2 tabelspoons of peanut butter.\n",
+
+			"directions": " Toast bread to your liking.\n Divide peanut butter and spread on both the toasts.\n Drizzle honey over the peanut butter.\n Slice the banana and lay on the toast.\n Enjoy with a glass of milk.\n",
 			"videolink": "https://www.youtube.com/watch?v=Rh4EI4luKAQ"
 		},
 		{
-
-			"category": "Breakfast",
-			"directions": "Step 1 \n Step 2, \n Step 3",
 			"id": 3,
-			"ingredients": "Ingredient 1 \n Ingredient 2 \n Ingredient 3",
-			"name": "Pancakes",
-			"serving": 2,
-			"cookTime": "20 minutes",
-			"copyright": "©2023 John Doe",
-			"image": "https://lilluna.com/wp-content/uploads/2018/04/french-toast-bake-final-resize-3.jpg",
+			"name": "Egg Toast",
+			"category": "Breakfast",
+			"cookTime": "15 mins",
+			"serving": 1,
+			"copyright": "©2023 Eat This Much Inc. All rights reserved",
+			"image": "https://images.unsplash.com/photo-1642689690565-bf0afb7eb41e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"ingredients": " 2 slices of bread.\n 1 ripe avocado.\n 1 teaspoon of butter.\n Salt & Pepper.\n",
+			"directions": " Place eggs in a small saucepot and cover with water.\n Bring to a boil for about 8 minutes. Remove from heat.\n Meanwhile, toast the bread. When it is done, spread with butter.\n Slice the avocado.\n When the eggs are done, peel and slice them lengthwise.\n Assemble in this order: bread, egg, avocado. Sprinkle with salt & pepper.\n",
 			"videolink": "https://www.youtube.com/watch?v=Rh4EI4luKAQ"
 		},
 
 		{
-			"category": "Breakfast",
-			"directions": "Step 1 \n Step 2, \n Step 3",
 			"id": 4,
-			"ingredients": "Ingredient 1 \n Ingredient 2 \n Ingredient 3",
-
-			"name": "Grilled Cheese",
-			"serving": 2,
-			"cookTime": "10 minutes",
-			"copyright": "©2023 Jane Doe",
-			"image": "https://lilluna.com/wp-content/uploads/2018/04/french-toast-bake-final-resize-3.jpg",
+			"name": "Fruit Yogurt Museli",
+			"category": "Breakfast",
+			"cookTime": "15 mins",
+			"serving": 1,
+			"copyright": "Tassii Credit: Getty Images/iStockphoto ",
+			"image": "https://media.istockphoto.com/id/473583010/photo/start-the-day-the-healthy-way.jpg?b=1&s=170667a&w=0&k=20&c=DNfuwZsofcWEfoxoKUkDdH1zCDe6FLKAryuFhP3xtpQ=",
+			"ingredients": " 1 1/2 cup plain/flavoured Greek yogurt.\n 3/4 cup muesli.\n 1/2 cup blueberries.\n 1 riped banana.\n 1/2 cup strawberries.\n",
+			"directions": " Add 1 1/2 cups of plain Greek yogurt into a medium bowl.\n Then add 3/4 cup muesli to your yogurt.\n Top it up with blueberries and strawberries.\n Finally add sliced bananas.\n",
 			"videolink": "https://www.youtube.com/watch?v=Rh4EI4luKAQ"
+		},
+
+		{
+			"id": 5,
+			"name": "Scrambeld French Toast",
+			"category": "Breakfast",
+			"cooktime": "10 mins",
+			"serving": 1,
+			"copyright": "© 2008–2021 Lynn's Kitchen Adventures.",
+			"image": "https://lilluna.com/wp-content/uploads/2018/04/french-toast-bake-final-resize-3.jpg",
+			"ingredients": " 5 slices of a day old bread.\n 1 egg.\n 150 ml of milk.\n 1 tsp Vanilla.\n 3 tablespoons butter.\n 2 tablespoons sugar.\n 1 teaspoon cinnamon.\n",
+			"directions": " Cut the breadslices in cubed pieces.\n In a large bowl beat egg. Add the milk and vanilla.\n Melt half of butter in a large skillet or pan.\n Add the bread pieces to pan and cook until lightly browned. \n Set the setting of the stove to low.\n Gradually add the egg miture and gently mix it well.\n Add the remianing butter after 1 minute and slowly brown the bread pieces.\n Cook for 1 more minute.\n Serve with sugar and cinnamon.\n",
+			"videolink": "https://www.youtube.com/results?search_query=scrambled+french+toast"
+		},
+
+
+		{
+			"id": 6,
+			"name": "Overnight Oatmeal",
+			"category": "Breakfast",
+			"cooktime": "10 mins + chilling",
+			"serving": 1,
+			"copyright": "© 2023 RDA Enthusiast Brands, LLC",
+			"image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Overnight-Oatmeal_EXPS204273_GHTJM1701_4085_25_4b-1.jpg?w=1200",
+			"ingredients": " 1/3 cup old-fashioned oats.\n 3 tablespoons milk.\n 3 tablespoons plain yogurt.\n 1 tsp Vanilla.\n 1 tablespoon honey.\n 1/2 cup fresh fruit of your choice.\n 2 tablespoons chopped nuts.\n",
+			"directions": " Take a bowl or a Mason Jar.\n Combine oats, milk, yogurt and honey.\n Mix well and refrigerate overnight.\n Melt half of butter in a large skillet or pan.\n In the morning take out the bowl from the refrigator.\n Top it first with the fruit of your choice.\n Next, add some chopped nuts on top.\n",
+			"videolink": "https://www.youtube.com/watch?v=jO4-fh2XBBk"
 		}
+
+
+
 	]
+
 }
+	
+			
+			
